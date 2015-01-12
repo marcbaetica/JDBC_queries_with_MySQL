@@ -17,7 +17,7 @@ public class jdbcQuery {
 		//modify these as needed
 		String rootUsername = "root";
 		String rootPassword = "root";
-		String dbURL = "//localhost:3306/demo";
+		String dbURL = "//localhost:3306/macRulesSchema";
 		String connectionDatabase = "jdbc:mysql:".concat(dbURL);
 		String dbTable = "macRulesTable"; //for table name in our db schema
 		
